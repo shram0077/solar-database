@@ -43,10 +43,8 @@ This Flutter project, named `solar_database`, appears to be a comprehensive data
 
 *   **Dart**: Primary programming language.
 *   **Flutter**: UI framework for building cross-platform applications.
-*   **HTML**: Used for invoice generation.
-*   **Kotlin**: Used for some Android-specific code (MainActivity.kt).
-*   **Swift**: Used for some iOS and macOS-specific code (AppDelegate.swift, MainFlutterWindow.swift, GeneratedPluginRegistrant.swift).
-*   **C++**: Used for windows specific code (flutter_window.cpp, main.cpp, utils.cpp, win32_window.cpp).
+*   **HTML & CSS**: Used for invoice generation.
+
 
 ## Installation ⚙️
 
