@@ -9,7 +9,7 @@
 
 ## Description 📝
 
-This Flutter project, named `solar_database`, appears to be a comprehensive database management application with a focus on sales, inventory, company management, and financial tracking. It includes features for managing items, companies, debts, hawala transactions, jumla sales, monthly spending, and user settings. The application supports invoice generation and provides a dashboard for an overview of key metrics.
+This Flutter project, named `KodenEnergy ERP`, appears to be a comprehensive database management application with a focus on sales, inventory, company management, and financial tracking. It includes features for managing items, companies, debts, hawala transactions, jumla sales, monthly spending, and user settings. The application supports invoice generation and provides a dashboard for an overview of key metrics.
 
 ## Table of Contents 🧭
 
