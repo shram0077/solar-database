@@ -1,4 +1,4 @@
-# Solar Database ☀️
+# ERP System for a Solar Company☀️
 
 <!-- Badges -->
 
